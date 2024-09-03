@@ -17,3 +17,5 @@ python-docx
 pyttsx3
 gTTS
 seaborn
+altair
+streamlit_extras
