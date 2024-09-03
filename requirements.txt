@@ -16,3 +16,4 @@ statsmodels
 python-docx
 pyttsx3
 gTTS
+seaborn
